@@ -1,0 +1,6 @@
+{
+  "name": "LearnMate AI",
+  "description": "Premium EdTech platform featuring an interactive animated robot tutor, timed visual assessments, verified curriculum notes, and intelligent teaching whiteboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
